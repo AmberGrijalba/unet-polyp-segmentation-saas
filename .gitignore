@@ -1,0 +1,16 @@
+# Datasets
+dataset/
+Kvasir-SEG/
+test-images/
+prediction/
+
+# Model files
+*.h5
+*.pth
+*.ckpt
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ZIPs
+*.zip
